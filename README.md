@@ -27,14 +27,17 @@ Classic algorithms and data structures implemented in Go
 * [Newton's Square Root](https://github.com/arnauddri/algorithms/tree/master/maths/newton-sqrt) [(wiki)](http://en.wikipedia.org/wiki/Newton%27s_method)
 * [Permutations Count](https://github.com/arnauddri/algorithms/tree/master/maths/permutations-count)
 * [Strassen's matrix multiplication](https://github.com/arnauddri/algorithms/tree/master/maths/matrix) [(wiki)](http://en.wikipedia.org/wiki/Strassen_algorithm)
-* [Randomized Selection](https://github.com/arnauddri/algorithms/tree/master/maths/RSelect)
+* [Randomized Selection](https://github.com/arnauddri/algorithms/tree/master/maths/rselect)
+
+#### Search algorithms
+
+ * RSelect
 
 #### Sorting algorithms
 
-* Bubble Sort
-* Quick Sort
-* Selection Sort
-* Merge Sort
-* Insertion Sort
-* Shell Sort
-* Selection Sort
+* [bubbleSort](https://github.com/arnauddri/algorithms/tree/master/sorting/bubble_sort) [(wiki)](http://en.wikipedia.org/wiki/Bubble_sort)
+* [quicksort](https://github.com/arnauddri/algorithms/tree/master/sorting/quick_sort) [(wiki)](http://en.wikipedia.org/wiki/Quicksort)
+* [mergeSort](https://github.com/arnauddri/algorithms/tree/master/sorting/merge_sort) [(wiki)](http://en.wikipedia.org/wiki/Merge_sort)
+* [insertionSort](https://github.com/arnauddri/algorithms/tree/master/sorting/insertion_sort) [(wiki)](http://en.wikipedia.org/wiki/Insertion_sort)
+* [shellSort](https://github.com/arnauddri/algorithms/tree/master/sorting/shell_sort) [(wiki)](http://en.wikipedia.org/wiki/Shellsort)
+* [selectionSort](https://github.com/arnauddri/algorithms/tree/master/sorting/selection_sort) [(wiki)](http://en.wikipedia.org/wiki/Selection_sort)
